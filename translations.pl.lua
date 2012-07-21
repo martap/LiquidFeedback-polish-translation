@@ -215,7 +215,7 @@ return {
 ["Error while converting image. Please note, that only JPG files are supported!"] = "Błąd konwersji zdjęcia. Akceptowane są tylko pliki JPG!";
 ["Error while updating member, database reported:<br /><br /> (#{errormessage})"] = "Błąd aktualizacji użytkownika, raport z bazy danych: <br /><br /> (#{errormessage})";
 ["Etherpad authentication failed"] = "Błąd autentykacji Etherpad";
-["Event #{id} -> #{num} members"] = "Zdarzenie #{id} -> liczba użytkowników: #{num}"";
+["Event #{id} -> #{num} members"] = "Zdarzenie #{id} -> liczba użytkowników: #{num}";
 ["Everything"] = "Wszystko";
 ["External memberships"] = "Zewnętrzne członkostwo";
 ["External posts"] = "Zewnętrzne wpisy";
@@ -231,7 +231,7 @@ return {
 ["Global search"] = "Wyszukiwanie globalne";
 ["Half frozen at"] = "Połowicznie zawieszony";
 ["Hello\n\n"] = "Witaj\n\n";
-["Hello "] = "Witaj";
+["Hello "] = "Witaj ";
 ["Help #{id}"] = "Pomoc #{id}";
 ["Help for: #{text}"] = "Pomoc dla: #{text}";
 ["Hide"] = "Ukryj";
@@ -316,7 +316,7 @@ return {
 ["Login"] = "Zaloguj się";
 ["Login name"] = "Nazwa użytkownika";
 ["Logout"] = "Wyloguj się";
-["Logout successful"] = "Jesteś zalogowany/a";
+["Logout successful"] = "Jesteś wylogowany/a";
 ["Manage filter"] = "Zarządzaj filtrami";
 ["Manage timeline filters"] = "Zarządzaj filtrami osi czasu";
 ["Member"] = "Użytkownik";
