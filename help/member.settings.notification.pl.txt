@@ -1,0 +1,2 @@
+= Ustawienia powiadomień =
+Wybierz powiadomienia, które chcesz otrzymywać e-mailem od systemu.

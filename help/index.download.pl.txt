@@ -1,0 +1,2 @@
+= Pobieranie bazy danych =
+W celu umożliwienia użytkownikom audytu zmian, każdy użytkownik może pobrać kopię całej bazy danych, jednakże ze względów bezpieczeństwa dane prywatne, takie, jak hasła, adresy email itp, zostaną usunięte. Format danych to SQL, używany w bazie PostgreSQL, skompresowany z użyciem gzip. 

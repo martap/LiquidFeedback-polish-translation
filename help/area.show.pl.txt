@@ -1,0 +1,15 @@
+= Obszar tematyczny =
+
+Tutaj znajdują się:
+- **Najnowsze wydarzenia:** Wydarzenia w tym obszarze tematycznym
+- **Otwarte zagadnienia:** Aktualnie otwarte zagadnienia w tym temacie, np. nowe, w dyskusji, zawieszone oraz w głosowaniu
+- **Zamknięte zagadnienia:** Zagadnienia w tym temacie, dla których głosowanie zostało zamknięte, lub zagadnienia unieważnione
+- **Uczestnicy:** Uprawnieni do głosowania, którzy zdecydowali się uczestniczyć w tym obszarze tematycznym
+- **Upoważnienia:** Upoważnienia innych użytkowników do tego obszaru tematycznego (upoważnienia do sekcji oraz upoważnienia do zagadnień nie są pokazywane)
+
+Jako osoba uprawniona do głosowania, możesz zgłosić chęć uczestnictwa w tym obszarze tematycznym poprzez kliknięcie "Uczestniczę w tym obszarze". Ma to następujące konsekwencje:
+- Temat będzie pokazany na Twojej stronie domowej, w zakładce "Moje obszary"
+- Zostaniesz doliczony do grupy użytkowników dyskutujących dane zagadnienie. Ma to znaczenie przy sprawdzaniu kworum dla danej inicjatywy. 
+- Przy prawidłowych ustawieniach powiadomień, dostaniesz e-maila o każdym zdarzeniu, dotyczącym tego tematu. Możesz zmienić ustawienia powiadomień klikając "Ustawienia" w menu użytkownika, dostępnym w prawym górnym rogu. 
+
+Twoje upoważnienia w tym obszarze tematycznym dotyczą wszystkich zagadnień, dla których nie ustawiłeś/aś rozbieżnych upoważnień dotyczących tematów. Twoje upoważnienie dla sekcji organizacyjnej ma zastosowanie, kiedy nie ustawisz upoważnień dotyczących obszaru tematycznego. Jeśli jesteś osobiście zainteresowana/y zagadnieniem, potencjalnie występujące upoważnienia są zawieszone do czasu głosowania. Głosowanie nad zagadnieniem anuluje istniejące upoważnienie. 

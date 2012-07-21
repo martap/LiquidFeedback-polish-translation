@@ -1,0 +1,1 @@
+Adres e-mail będzie używany do wysyłania automatycznych powiadomień od systemu oraz do kontaktu z administratorami systemu. Nie jest on widoczny dla innych użytkowników. Jeśli dokonasz zmiany adresu, zostaniesz powiadomiony/a o tym fakcie e-mailem. Znajdziesz w nim link potwierdzający, który musisz kliknąć, aby zaakceptować zmianę. 

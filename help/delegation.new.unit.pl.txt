@@ -1,0 +1,4 @@
+= Upoważnienie do sekcji =
+Upoważnienie do sekcji jest zawsze aktywne jeśli nie uczestniczysz osobiście w danej sekcji oraz jeśli nie zdefiniowałeś/aś upoważnień do obszaru lub zagadnienia. Zauważ, że upoważnienia do sekcji nadrzędnych nie są dziedziczone do podsekcji. 
+
+**Uwaga:** Możesz upoważniać jedynie użytkowników, znajdujących się na Twojej liście kontaktów. W zakładce ""Uprawnieni do głosowania"" w odpowiedniej sekcji znajdziesz innych użytkowników. Kliknij użytkownika, aby zobaczyć jego stronę, a następnie kliknij ""Dodaj do kontaktów"" w celu dodania go/jej do Twojej listy kontaktów. 

@@ -1,0 +1,10 @@
+= Strona profilu =
+Na tej stronie możesz się dowiedzieć
+- co dany użytkownik napisał o sobie,
+- w których obszarach uczestniczy,
+- w których zagadnieniach i inicjatywach bierze udział,
+- jakich upoważnień udzielił/a oraz jakie otrzymał/a, oraz
+- jakie kontakty opublikował/a.
+
+= Dodaj do kontaktów =
+Możesz dodać tego użytkownika do swojej listy kontaktów, bądź usunąć go z niej. Pamiętaj, że możesz upoważniać tylko użytkowników, którzy znajdują się na Twojej liście kontaktów. 

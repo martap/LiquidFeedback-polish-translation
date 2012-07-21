@@ -1,0 +1,5 @@
+= Profil =
+
+Wszystkie informacje, podane w tej sekcji, są dobrowolne. Tylko wypełnione pola będą widoczne w Twoim profilu. 
+
+Możesz zmienić swój pseudonim, nazwę użytkownika i hasło w menu użytkownika, dostępnym w prawym górnym rogu, pod przyciskiem ""Ustawienia""

@@ -1,0 +1,4 @@
+= Lista kontaktów =
+Aby szybko odnaleźć innych użytkowników, dodaj ich do swojej listy kontaktów. Odpowiedni link znajduje się na stronie profilu każdego z użytkowników. Jeśli opublikujesz kontakt, inni użytkownicy będą widzieć go na Twojej liście kontaktów. 
+
+**Ważne:** Dla ułatwienia obsługi, Twoja lista kontaktów będzie wyświetlana podczas udzielania upoważnień. Aby nadać upoważnienie użytkownikowi, musisz najpierw dodać go/ją do listy kontaktów, jednakże usunięcie użytkownika z listy kontaktów nie anuluje nadanych upoważnień. 

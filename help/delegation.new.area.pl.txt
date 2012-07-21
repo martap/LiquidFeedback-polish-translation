@@ -1,0 +1,5 @@
+= Upoważnienie do tego obszaru =
+
+Możesz upoważnić do głosowania w tym obszarze (niezależnie od Twojego członkostwa w nim) dowolnego użytkownika z Twojej listy kontaktów. Upoważnienie takie jest nadrzędne w stosunku do potencjalnie zdefiniowanego upoważnienia globalnego, ale tylko jeśli nie uczestniczysz w tym obszarze osobiście i jeśli nie udzieliłeś/aś upoważnienia do konkretnego zagadnienia. Upoważnienia do zagadnień możesz definiować na stronach konkretnych zagadnień. 
+
+**Uwaga:** Możesz upoważniać jedynie użytkowników, znajdujących się na Twojej liście kontaktów. W zakładce ""Uprawnieni do głosowania"" w odpowiedniej sekcji znajdziesz innych użytkowników. Kliknij użytkownika, aby zobaczyć jego stronę, a następnie kliknij ""Dodaj do kontaktów"" w celu dodania go/jej do Twojej listy kontaktów. 

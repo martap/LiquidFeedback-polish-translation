@@ -1,0 +1,11 @@
+= Głosowanie =
+
+Na początku głosowania wszystkie inicjatywy znajdują się w polu Wstrzymuję się od głosu. Zaleca się rozpoczęcie głosowania od przeciągnięcia myszką ulubionej inicjatywy do pola Zatwierdzam. Następnie należy wybierać kolejne inicjatywy i przeciągać je myszką:
+- do tego samego zielonego pola, jeśli inicjatywa jest tak samo ważna, jak pierwsza, lub 
+- do przestrzeni pomiędzy polami Zatwierdzam i Wstrzymuję się od głosu, jeśli inicjatywa jest mniej ważna, ale do zaakceptowania warunkowego.
+
+Postępując w ten sposób, można zdefiniować listy ważności inicjatyw, poprzez zgromadzenie wszystkich tak samo ważnych inicjatyw w odpowiednich polach. Możliwe jest także zdefiniowanie listy odrzuconych i warunkowo zaakceptowanych inicjatyw, co jest ważne w przypadku, kiedy jedna z nich reprezentuje tzw. ,,mniejsze zło''. 
+
+** Ważne: ** Opuść stronę poprzez kliknięcie przycisku ,,Zakończ głosowanie''. Do tego czasu możesz zmieniać swoje głosy. Do czasu zaakceptowania wyboru, rezultaty nie są publikowane ani wysyłane do serwera. Dane prezentowane na stronie podglądu zagadnienia dotyczą poszczególnych zagadnień i są odpowiednie tylko do porównania zagadnień w ograniczonym zakresie. W szczególności, dane te nie zawierają informacji o preferencjach; ponadto, grupa osób biorących udział w dyskusji może znacząco różnić się od grupy osób głosujących. 
+
+** Uwaga: ** Na niektórych platformach (np smartfony lub tablety), korzystanie z przeciągania myszką może być niemożliwe. W takich przypadkach użyj strzałek, znajdujących się po lewej stronie każdej inicjatywy. 

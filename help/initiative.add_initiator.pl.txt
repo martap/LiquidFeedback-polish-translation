@@ -1,0 +1,3 @@
+= Zaproszenie inicjatora =
+Możesz zaprosić do współpracy innego użytkownika ze swojej listy kontaktów. Użytkownik ten otrzyma takie same prawa do danej inicjatywy, jak Ty. Zaproszony musi zaakceptować zaproszenie aby zostać inicjatorem. 
+** Uwaga: ** Wszyscy inicjatorzy mają takie same prawa i mogą usuwać innych inicjatorów. 

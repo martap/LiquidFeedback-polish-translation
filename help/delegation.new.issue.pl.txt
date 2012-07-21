@@ -1,0 +1,4 @@
+= Upoważnienie do tego zagadnienia =
+Upoważnienie do tego zagadnienia jest nadrzędne w stosunku do potencjalnie zdefiniowanego globalnego upoważnienia i/lub upoważnienia do obszaru nadrzędnego. Jeśli zgłosiłeś/aś zainteresowanie tym zagadnieniem, istniejące upoważnienia są zawieszone podczas fazy dyskusji, ale będą aktywne podczas ostatecznego głosowania. Możesz upoważniać tylko użytkowników ze swojej listy kontaktów. Jeśli chcesz dodać użytkownika do listy kontaktów, użyj obszaru ''Użytkownicy'', dostępnego na głównej stronie serwisu.
+
+**Uwaga:** Możesz upoważniać jedynie użytkowników, znajdujących się na Twojej liście kontaktów. W zakładce ""Uprawnieni do głosowania"" w odpowiedniej sekcji znajdziesz innych użytkowników. Kliknij użytkownika, aby zobaczyć jego stronę, a następnie kliknij ""Dodaj do kontaktów"" w celu dodania go/jej do Twojej listy kontaktów. 

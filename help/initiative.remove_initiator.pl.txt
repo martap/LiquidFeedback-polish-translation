@@ -1,0 +1,2 @@
+= Usunięcie inicjatora =
+Możesz usunąć samego siebie lub innego inicjatora, ale tylko wtedy, gdy pozostanie choć jeden aktywny inicjator. Jeśli chcesz porzucić całą inicjatywę, wybierz ,,Unieważnienie inicjatywy''. 

@@ -1,0 +1,6 @@
+= Zdjęcia =
+
+Format: JPG
+Awatar: maksymalnie 48 x 48 pikseli, preferowany jest obrazek/zdjęcie kwadratowe
+Zdjęcie: maksymalnie 250 x 250 pikseli
+Większe zdjęcia będą przeskalowane. Wszystkie zdjęcia będą przekodowane w celu usunięcia wrażliwych danych (np. EXIF).

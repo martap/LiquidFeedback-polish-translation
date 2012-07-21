@@ -1,0 +1,1 @@
+Wybierz nazwę użytkownika. Nie będzie ona widoczna dla innych użytkowników, będziesz korzystać z niej tylko podczas logowania. Wielkość liter w nazwie ma znaczenie. 

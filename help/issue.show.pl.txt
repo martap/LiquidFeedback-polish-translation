@@ -1,0 +1,11 @@
+= Zagadnienie =
+
+Na tej stronie możesz znaleźć wszystkie inicjatywy, zgłoszone w ramach bieżącego zagadnienia. Jeśli klikniesz ""Zgłaszam zainteresowanie"", będziesz traktowany/a na równi z użytkownikami obszarów nadrzędnych, co oznacza, że zaliczasz się do grupy osób, prowadzących dyskusję nad tym zagadnieniem. Ma to znaczenie przy obliczaniu kworum, które każda inicjatywa musi osiągnąć. 
+
+Zgłoszenie zainteresowania jest wymagane w celu bezpośredniego wsparcia inicjatyw, dotyczących danego zagadnienia, oraz w celu proponowania sugestii zmian. Dopóki jesteś zainteresowany/a zagadnieniem, Twoje aktywne upoważnienia są zawieszone do czasu głosowania zagadnienia, co następuje po zamknięciu faz ""nowe"", ""w dyskusji"" i ""zawieszone"". Wsparcie jakiejkolwiek inicjatywy, dotyczącej danego zagadnienia, jest równoznaczne ze zgłoszeniem zainteresowania tym zagadnieniem. Wycofanie zainteresowania anuluje wszystkie bezpośrednie wsparcia inicjatyw i przywraca zawieszone upoważnienia. 
+
+Zagadnienia przechodzą kolejno przez fazy ""nowe"", ""w dyskusji"", ""zawieszone"", ""w głosowaniu"" i ""zakończone"", chyba, że są przedwcześnie unieważnione z uwagi na brak zwolenników lub inicjatyw. 
+
+Podczas faz ""nowe"" oraz ""w dyskusji"" powinieneś/powinnaś wspierać **wszystkie** inicjatywy, z którymi się ogólnie zgadzasz (także pod pewnymi warunkami) oraz zgłaszać sugestie ulepszeń i poprawek. Szczegóły znajdziesz na stronie inicjatywy. Dajesz tym samym inicjatorom szansę ulepszenia ich propozycji. Podczas tych faz możesz także rozpocząć konkurencyjną inicjatywę dotyczącą tego zagadnienia i poprosić użytkowników o jej wsparcie. 
+
+Inicjatywy, które osiągną kworum, zostaną poddane finałowemu głosowaniu. Wsparcie inicjatywy we wczesnych fazach (""nowe"", ""w dyskusji"", ""zawieszone"") nie implikuje tej samej decyzji podczas głosowania. 

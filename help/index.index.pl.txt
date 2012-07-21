@@ -1,0 +1,12 @@
+= Witamy na Twojej stronie domowej w systemie LiquidFeedback =
+W całym systemie znajdziesz pola z tekstami pomocy. Możesz ukryć każdy tekst pomocy klikając "ukryj ten tekst pomocy" w prawym górnym rogu żółtego obszaru strony. Jeśli chcesz ponownie zobaczyć tekst pomocy, kliknij małą niebieską ikonę znaku zapytania, znajdującą się na pasku nawigacyjnym na samej górze strony. 
+
+Poniżej znajdują się:
+- **Strona domowa:**
+-- **Moje obszary:** Obszary tematyczne, w których możesz uczestniczyć
+-- **Wszystkie obszary w moich sekcjach:** Wszystkie obszary tematyczne w sekcjach, w których jesteś uprawniony/a do głosowania
+-- **Wszystkie sekcje:** Wszystkie sekcje
+- **Ostatnie wydarzenia** Historia zmian i zdarzeń w Twoich obszarach tematycznych
+- **Otwarte zagadnienia** Wszystkie zagadnienia, które są obecnie otwarte, czyli nowe, w dyskusji, zawieszone lub w głosowaniu
+- **Zamknięte zagadnienia** Wszystkie przegłosowane zagadnienia oraz zagadnienia unieważnione
+- **Użytkownicy** Lista aktywnych użytkowników. Po wybraniu użytkownika, możesz dodać go/ją do listy kontaktów, co pozwoli Ci na ewentualne udzielenie mu upoważnienia
