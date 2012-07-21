@@ -13,4 +13,4 @@ I'm going to add it to LiquidFeedback repository when I get access (CLA has alre
 
 You can join me and help to prepare better translation!
 
-
+I publish my LiquidFeedback polish translation under the MIT/X11-License, the same therms as LiquidFeedback (http://www.public-software-group.org/mercurial/liquid_feedback_frontend/file/795eea4eff96/LICENSE) 
