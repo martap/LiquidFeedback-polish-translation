@@ -4,6 +4,7 @@ LiquidFeedback-polish-translation
 LiquidFeedback polish translation.
 
 I've took the sources for translation from LiquidFeedback (http://www.public-software-group.org/liquid_feedback) repository: 
+
 1. files in help folder: http://www.public-software-group.org/mercurial/liquid_feedback_frontend/file/795eea4eff96/locale/help
 2. translations.xx.lua: http://www.public-software-group.org/mercurial/liquid_feedback_frontend/file/795eea4eff96/locale/
 
